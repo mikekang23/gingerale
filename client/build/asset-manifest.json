@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ff25a8d.chunk.css",
+    "main.js": "/static/js/main.0e7c947f.chunk.js",
+    "main.js.map": "/static/js/main.0e7c947f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.6cc85612.js",
+    "runtime~main.js.map": "/static/js/runtime~main.6cc85612.js.map",
+    "static/js/2.4d8a91c0.chunk.js": "/static/js/2.4d8a91c0.chunk.js",
+    "static/js/2.4d8a91c0.chunk.js.map": "/static/js/2.4d8a91c0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.088f021a64a824438b276f8dae0bf911.js": "/precache-manifest.088f021a64a824438b276f8dae0bf911.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8ff25a8d.chunk.css.map": "/static/css/main.8ff25a8d.chunk.css.map",
+    "static/media/Join.css": "/static/media/lowpoly.17f4d7c3.png"
+  }
+}

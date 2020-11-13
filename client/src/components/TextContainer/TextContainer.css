@@ -1,0 +1,27 @@
+.textContainer {
+  color: white;
+  position: absolute;
+}
+
+.activeContainer p {
+  font-size: 16px;
+}
+
+.activeItem {
+  display: flex;
+  align-items: center;
+}
+
+.textContainer h1 {
+  font-size: 24px;
+}
+
+p{
+  font-size:18px;
+}
+
+@media (min-width: 320px) and (max-width: 1200px) {
+  .textContainer {
+    display: none;
+  }
+}
